@@ -1,0 +1,11 @@
+
+# Welcome logo
+print("      |                      ___  ")
+print("      |  |      ___ | / ___  |  \ ")
+print("      |__| ____ |   |/  |__  |  / ")
+print("      |  | |__| |__ |\  |__  |_/  ")
+print("         | |  |     | \_     | \ OS\n")
+print("banri-OS p-tool".upper().center(50))
+time.sleep(0.3)
+print(">>>Flynn_bait\n".center(63))
+time.sleep(1)
